@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Hassan
 
-<!--
-**hassan-maher-dev/hassan-maher-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communications Engineering Student  
+🚀 Junior DevOps Engineer  
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Linux
+- Git & GitHub
+- AWS (EC2, IAM)
+- Docker
+- CI/CD (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Goals
+- Build real DevOps projects
+- Improve cloud & automation skills
